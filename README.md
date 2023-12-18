@@ -1,4 +1,4 @@
-#Aceeleration-calculation
+# Acceleration-calculation
 
 Summary:
 
